@@ -13,6 +13,7 @@ tool link |functionality | last update | language | tutorial/documentation
 [SOCIB glider toolbox](https://github.com/socib/glider_toolbox) |Process slocum, seaglider and seaxplorer data | 2018 | matlab | [manual](https://github.com/socib/glider_toolbox/blob/master/documentation/Manual_v1.3.1.pdf)
 [EGO glider processing](https://www.seanoe.org/data/00343/45402/) |Process slocum, seaglider and seaxplorer data | 2023 | matlab | -
 [GLIDERSCOPE](https://imos.org.au/gliderscope) |Examine and plot netCDF glider data | ? | Binary:windows/mac | [video tutorial](https://www.youtube.com/watch?v=BiAvs-geunc&list=PLW7NnkFyzEHMQhMy7SSvenKjg7QvaCFYz)
+[PGPT](https://github.com/OceanGNS/PGPT) |Process slocum data + preserves raw data, produces IOOS gdac compliant *.nc files, dead-reckoning correction | 2024 | python | [docs site](https://github.com/OceanGNS/PGPT/blob/main/README.md)
 
 
 ### Quality Control
